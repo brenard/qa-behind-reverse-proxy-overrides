@@ -6,9 +6,9 @@
 	http://www.question2answer.org/
 
 	
-	File: qa-plugin/mouseover-layer/qa-plugin.php
+	File: qa-plugin/behind-reverse-proxy/qa-plugin.php
 	Version: See define()s at top of qa-include/qa-base.php
-	Description: Initiates mouseover layer plugin
+	Description: Initiates behind reverse proxy overrides plugin
 
 
 	This program is free software; you can redistribute it and/or
